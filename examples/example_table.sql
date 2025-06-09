@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS dbname.example_table (id INT, name STRING) STORED AS TEXTFILE;
