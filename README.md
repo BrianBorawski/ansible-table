@@ -1,2 +1,3 @@
-# ansible-table
-experimental ansible to create and update tables.
+# Updated Hive Table Module
+
+Now supports Hive, Impala, and PostgreSQL via ODBC.
